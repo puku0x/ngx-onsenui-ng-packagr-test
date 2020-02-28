@@ -1,0 +1,10 @@
+{
+  "name": "ngx-onsenui",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^9.0.0",
+    "@angular/core": "^9.0.0",
+    "onsenui": "^2.10.0",
+    "tslib": "^1.10.0"
+  }
+}
